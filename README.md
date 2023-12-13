@@ -1,6 +1,6 @@
 # We Are Indi
 
-Hand crafted design & development.
+Digital software consultancy.
 
 ## Contact
 
