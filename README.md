@@ -1,8 +1,8 @@
 # We Are Indi
 
-Digital software consultancy.
+Web design and development with a professional, personal service
 
 ## Contact
 
-Based in Southampton, UK - We're open to work with global clients.   
+Based in Southampton, UK - I'm open to work with global clients.   
 Get in touch here: [hello@weareindi.co.uk](mailto:hello@weareindi.co.uk)
