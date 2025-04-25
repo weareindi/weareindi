@@ -1,6 +1,6 @@
 # We Are Indi
 
-Web design and development with a professional, personal service
+Web design and development.
 
 ## Contact
 
